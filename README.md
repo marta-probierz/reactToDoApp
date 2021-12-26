@@ -4,6 +4,7 @@ Praca domowa w ramach CodersCamp2021
   <img src="readmePhotos/1.png" width="350">
   <img src="readmePhotos/2.png" width="350">
   <img src="readmePhotos/3.png" width="350">
+  <img src="readmePhotos/4.png" width="350">
 </p>
 
 ## Instalacja
