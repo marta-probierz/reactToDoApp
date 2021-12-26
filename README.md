@@ -1,6 +1,10 @@
 # reactToDoApp
 Praca domowa w ramach CodersCamp2021
-
+<p>
+  <img src="readmePhotos/1.png" width="350">
+  <img src="readmePhotos/2.png" width="350">
+  <img src="readmePhotos/3.png" width="350">
+</p>
 
 ## Instalacja
 
